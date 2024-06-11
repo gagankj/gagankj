@@ -29,7 +29,7 @@
 
 <p align="center">
 
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/gagandeep-jhanji" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gagankj"/>
  </a>
  <a href="https://dev.to/gagankj" target="_blank">

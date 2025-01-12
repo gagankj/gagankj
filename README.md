@@ -12,7 +12,7 @@
 
  -->
 
- <a href="https://app.daily.dev/gagandeepjhanji"><img src="https://api.daily.dev/devcards/v2/xabA9I5C2e8v7sUc0eCbG.png?type=default&r=qrk" width="356" alt="Gagandeep Jhanji's Dev Card"/></a>
+
 
 <a href="https://komarev.com/ghpvc/?username=gagankj">
   <img align="right" src="https://komarev.com/ghpvc/?username=gagankj&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -40,6 +40,14 @@
 
 </p>
 <br />
+
+<div align="center">
+  <a href="https://app.daily.dev/gagandeepjhanji">
+    <img src="https://api.daily.dev/devcards/v2/xabA9I5C2e8v7sUc0eCbG.png?type=default&r=qrk" 
+         width="356" alt="Gagandeep Jhanji's Dev Card"/>
+  </a>
+</div>
+
 
 <!-- About Section -->
  # About me

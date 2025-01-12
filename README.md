@@ -90,11 +90,7 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/gagankj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gagankj&theme=radical&border=7F3FBF&background=0D1117" alt="Gagan's GitHub streak"/>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/gagankj">
